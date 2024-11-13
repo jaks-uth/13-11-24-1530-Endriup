@@ -41,3 +41,8 @@ assertEquals(4, car.getDoors());
 
 Bike bike = new Bike("Mountain Bike");
 assertEquals(50, bike.getMaxSpeed());
+
+```
+Rozwiązanie
+![img.png](img.png)
+
